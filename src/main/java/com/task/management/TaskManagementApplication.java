@@ -10,9 +10,7 @@ public class TaskManagementApplication {
 		SpringApplication.run(TaskManagementApplication.class, args);
 		
 
-		System.out.println("");
-
-		System.out.println("Task Management App is running");
+	
 
 
 	}
