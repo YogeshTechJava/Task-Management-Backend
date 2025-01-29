@@ -8,6 +8,8 @@ public class TaskManagementApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TaskManagementApplication.class, args);
+		
+		System.out.println("Application Started");
 
 	}
 
